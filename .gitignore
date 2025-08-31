@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+lib/
+lib64/
+include/
+bin/
+
+# Env vars / secrets
+.env
+
+# Databases
+*.db
+
+# Logs
+*.log
+
+# Editor settings
+.vscode/
+.idea/
