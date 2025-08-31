@@ -2,7 +2,8 @@
 
 **StockInsights** is an interactive Streamlit app for exploring financial news with **summarization**, **sentiment analysis**, and **retrieval-augmented generation (RAG)**.  
 
-👉 Live demo: [StockInsights on Streamlit Cloud](https://stockinsights-lsj32s7pd6qrvovwnu3hpt.streamlit.app/)
+👉 Live demo: [StockInsights on Streamlit Cloud](https://stockinsights-cloud-9xwqbsyehpztp2mqehwr5t.streamlit.app/)
+
 
 ---
 ## 📸 Screenshots  
