@@ -156,9 +156,8 @@ Deployed on **Streamlit Cloud**:
 
 ##  Courtesy
 
-Custom emoji/icons created by **Arpon Roy**  
-- GitHub: [ArponRoy7](https://github.com/ArponRoy7)  
-- LinkedIn: [Arpon Roy](https://www.linkedin.com/in/arpon-roy-b461321a8/)  
+Custom emoji/icons created by **Bidisha Saha**  
+
 
 
 
